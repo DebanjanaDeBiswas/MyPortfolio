@@ -4,15 +4,15 @@
     "imageSrc": "projects/project.png",
     "description": "A realtime weather application for fetching weather reports using APIs.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://sky-scan-puce.vercel.app/",
+    "source": "https://github.com/DebanjanaDeBiswas/Sky-Scan"
   },
   {
     "title": "Netflix Clone",
     "imageSrc": "projects/project.png",
     "description": "A web application developed aiming to replicate the user interface and some features of the popular streaming service, Netflix.",
     "skills": ["HTML", "CSS", "JS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://netflix-clone-six-rose.vercel.app/",
+    "source": "https://github.com/DebanjanaDeBiswas/netflix_clone"
   }
 ]
